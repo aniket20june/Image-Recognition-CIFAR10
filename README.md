@@ -1,2 +1,2 @@
-# Text-Dectection-Recognition-and-Transliteration-using-deep-learning
+# Text-Recognition-and-Transliteration-using-deep-learning
 (temp) For Minor Project 1
